@@ -10,9 +10,9 @@
 
 <!-- 头像 -->
 <div align="center">
-<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
+<img width="120" src="https://github.com/nihaokkjj/static-resources/blob/main/cxyduck.gif?raw=true" />
 <img  src="https://github.com/nihaokkjj/image/blob/main/images.jpg" align="center" height="200" width="200" />
-<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
+<img width="120" src="https://github.com/nihaokkjj/static-resources/blob/main/cxyduck.gif?raw=true" />
 </div>  
 
 <!-- 个人介绍 -->
@@ -26,13 +26,13 @@
 <br/>  
 
 <!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20251009" /></div>
+<div align="center"><img src="https://raw.gitmirror.com/nihaokkjj/action/output/github-contribution-grid-snake.svg?new=20251009" /></div>
 <br/>  
 
 <!-- 联系方式 -->
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/1321928757" target="_blank">
+<a href="https://github.com/nihaokkjj" target="_blank">
 <img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" />
 </a>
  &nbsp;&nbsp;&nbsp;
@@ -47,22 +47,22 @@
 
 <!-- 个人打卡记录 -->
 ## Github Streak  
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihaokkjj" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 <!-- star 语言占比等统计 -->
 ## Github Stats  
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nihaokkjj&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihaokkjj&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 <!-- 奖杯墙 -->
 ## Github Score  
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1321928757" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nihaokkjj" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
@@ -72,9 +72,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
@@ -86,7 +86,7 @@
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://github.com/1321928757/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://github.com/nihaokkjj/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
 <!-- for beauty 留个空行好看点 -->
@@ -147,13 +147,13 @@
     <th>Forks</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/big-market" target="_blank">🔥LuckyDraw抽奖平台-营销促销利器</a></td>
+    <td><a href="https://github.com/nihaokkjj/big-market" target="_blank">🔥LuckyDraw抽奖平台-营销促销利器</a></td>
     <td>抽奖系统是各个互联网公司用于拉新、促活、留存、转化的重要手段，LuckyDraw抽奖平台针对促销场景，搭建为各平台促销提效的营销抽奖平台</td>
     <td >
-      <img width="150"  src="https://img.shields.io/github/stars/1321928757/big-market?style=social" alt="stars"/>
+      <img width="150"  src="https://img.shields.io/github/stars/nihaokkjj/big-market?style=social" alt="stars"/>
     </td>
     <td >
-      <img width="150"  src="https://img.shields.io/github/forks/1321928757/big-market?style=social" alt="stars"/>
+      <img width="150"  src="https://img.shields.io/github/forks/nihaokkjj/big-market?style=social" alt="stars"/>
     </td>
   </tr>
   <!-- 重复以上行来添加更多项目 -->
