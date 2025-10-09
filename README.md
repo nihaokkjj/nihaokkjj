@@ -49,7 +49,7 @@
 ## Github Streak  
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihaokkjj" /> </div>
 <!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>-->
+<div>&nbsp;</div>
 
 <!-- star 语言占比等统计 -->
 ## Github Stats  
