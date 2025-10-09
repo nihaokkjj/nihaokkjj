@@ -30,11 +30,11 @@
 <br/>  
 
 <!-- 联系方式 -->
-## Connect with me  
+<!-- ## Connect with me  
 <div align="center">
 <a href="https://github.com/nihaokkjj" target="_blank">
-<img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" />
-</a>
+<img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" /> -->
+<!-- </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://gitee.com/liushijie-kitie" target="_blank">
 <img src=https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee alt=gitee height="40" style="margin-right: 10px;" />
@@ -43,13 +43,13 @@
 <a href="https://blog.csdn.net/qq_35716689?type=blog" target="_blank">
 <img src=https://img.shields.io/badge/-CSDN-EF4223?style=flat-square&logo=csdn alt=csdn height="40" style="margin-right: 10px;" />
 </a>
-</div>  
+</div>   -->
 
-<!-- 个人打卡记录 -->
+<!-- 个人打卡记录
 ## Github Streak  
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihaokkjj" /> </div>
 <!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+<div>&nbsp;</div>-->
 
 <!-- star 语言占比等统计 -->
 ## Github Stats  
@@ -62,13 +62,13 @@
 
 <!-- 奖杯墙 -->
 ## Github Score  
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nihaokkjj" /> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nihaokkjj" /> </div>
 <!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+<div>&nbsp;</div> -->
 
 <!-- 贡献曲线图 -->
 ## Github contribution
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
@@ -77,7 +77,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
-</table>
+</table> -->
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
@@ -86,8 +86,8 @@
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://github.com/nihaokkjj/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</picture>
+  <!-- <img src="https://github.com/nihaokkjj/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+</picture> -->
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
@@ -98,51 +98,16 @@
 
 <!-- 前端技能 -->
 ### Frontend  
-<div align="center">  
+<!-- <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
+</div> -->
 
 </td><td valign="top" width="33%">
 
 
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
-
-<!-- 项目介绍 -->
-## My Projects  
-<div align="center">
-
-<table>
-  <tr>
-    <th>项目名称</th>
-    <th>项目描述</th>
-    <th>Stars</th>
-    <th>Forks</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nihaokkjj/easybbs" target="_blank">🔥防掘金论坛</a></td>
-    <td>练手小项目, 熟悉vue, javascript, css的使用</td>
-    <td >
-      <img width="150"  src="" alt="stars"/>
-    </td>
-    <td >
-      <img width="150"  src="" alt="stars"/>
-    </td>
-  </tr>
-  <!-- 重复以上行来添加更多项目 -->
-</table>
-
-<!-- 粉红色汇总表 -->
-<img width="120%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" />
-
-<!-- 最后的技能长图 -->
-<!--  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>  -->
-</div>
 
 
