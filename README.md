@@ -11,7 +11,7 @@
 <!-- 头像 -->
 <div align="center">
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
-<img  src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="200" width="200" />
+<img  src="https://github.com/nihaokkjj/image/blob/main/images.jpg" align="center" height="200" width="200" />
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
 </div>  
 
