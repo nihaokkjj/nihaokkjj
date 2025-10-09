@@ -45,10 +45,10 @@
 </a>
 </div>   -->
 
-<!-- 个人打卡记录
+个人打卡记录
 ## Github Streak  
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihaokkjj" /> </div>
-<!-- for beauty 留个空行好看点 -->
+<!-- for beauty 留个空行好看点
 <div>&nbsp;</div>
 
 <!-- star 语言占比等统计 -->
@@ -66,9 +66,9 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div> 
 
-<!-- 贡献曲线图 -->
-<!-- ## Github contribution -->
-<!-- <table>
+贡献曲线图
+## Github contribution
+ <table>
   <tr>
     <td>
       <picture>
@@ -77,13 +77,13 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
-</table> -->
+</table>
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 <!-- 3D个人贡献资料图 -->
-<picture>
+<!-- <picture> -->
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
   <!-- <img src="https://github.com/nihaokkjj/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
