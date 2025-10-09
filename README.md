@@ -61,13 +61,13 @@
 <div>&nbsp;</div>
 
 <!-- 奖杯墙 -->
-## Github Score  
+<!-- ## Github Score   -->
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nihaokkjj" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div> -->
 
 <!-- 贡献曲线图 -->
-## Github contribution
+<!-- ## Github contribution -->
 <!-- <table>
   <tr>
     <td>
@@ -93,8 +93,8 @@
 <div>&nbsp;</div>
 
 <!-- 技能表 -->
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- ## My Skill Set  
+<table><tr><td valign="top" width="33%"> -->
 
 <!-- 前端技能 -->
 ### Frontend  
