@@ -16,11 +16,11 @@
 </div>  
 
 <!-- 个人介绍 -->
-### <div align="center">✨我是刘仕杰，目标是成为一名优秀的全栈工程师✨</div>  
+### <div align="center">✨我是匡思进，目标是成为一名优秀的前端工程师✨</div>  
 <br/>  
 <div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
 <br/>  
-<div align="center">🌱我目前正在持续学习Kubernetes的使用🌱</div>  
+<div align="center">🌱我目前正在持续学习Vue的使用🌱</div>  
 <br/>  
 <div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
 <br/>  
