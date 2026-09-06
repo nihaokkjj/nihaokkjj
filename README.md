@@ -26,7 +26,20 @@
 <br/>  
 
 <!-- 贪吃蛇动图 -->
-<!-- <div align="center"><img src="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/f62399537681855605bdd307b158b159ca6677d0/github-snake.svg" /></div> -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <br/>  
 
 <!-- ## Connect with me  
@@ -46,16 +59,23 @@
 
 贡献曲线图
 ## Github contribution
- <table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
+<h2>GitHub Activity</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=0d1117&amp;color=ffffff&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
+  />
+  <img
+    alt="GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
+  />
+</picture>
+
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
