@@ -47,45 +47,21 @@
 
 <h2>Contribution Snake</h2>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake-dark.svg"
-    />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake.svg"
+    alt="snake"
+  />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
 
 <h2>GitHub Activity</h2>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=0d1117&amp;color=ffffff&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;hide_border=true"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
-    />
+  <img
+    alt="GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
+  />
 
-    <img
-      alt="GitHub activity graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
-    />
-  </picture>
-</div>
 
 <h2>Connect with me</h2>
 
