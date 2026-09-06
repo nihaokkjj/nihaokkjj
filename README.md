@@ -54,14 +54,6 @@
   />
 
 
-<h2>GitHub Activity</h2>
-
-
-  <img
-    alt="GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
-  />
-
 
 <h2>Connect with me</h2>
 
