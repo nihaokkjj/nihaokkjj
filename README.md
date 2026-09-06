@@ -1,111 +1,113 @@
-<!-- 动态打字效果 -->
 <div align="center">
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=435&amp;lines=console.log%28%22Hello%2C%20World%22%29%3B&amp;center=true&amp;size=27"
+      alt="JavaScript typing animation"
+    />
   </div>
+
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=27" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=600&amp;lines=System.out.println%28%22Hello%2C%20World%22%29%3B&amp;center=true&amp;size=27"
+      alt="Java typing animation"
+    />
   </div>
 </div>
 
-<!-- 头像 -->
 <div align="center">
-<img width="120" src="https://github.com/nihaokkjj/static-resources/blob/main/cxyduck.gif?raw=true" />
-<img  src="https://github.com/nihaokkjj/image/blob/main/images.jpg" align="center" height="200" width="200" />
-<img width="120" src="https://github.com/nihaokkjj/static-resources/blob/main/cxyduck.gif?raw=true" />
-</div>  
-
-<!-- 个人介绍 -->
-### <div align="center">✨我是前端小菜鸟，目标是成为一名优秀的全栈工程师✨</div>  
-<br/>  
-<div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
-<br/>  
-<div align="center">🌱我目前正在持续学习后端🌱</div>  
-<br/>  
-<div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
-<br/>  
-
-<!-- 贪吃蛇动图 -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/output/github-contribution-grid-snake.svg"
-  />
   <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/output/github-contribution-grid-snake.svg"
+    width="120"
+    src="https://raw.githubusercontent.com/nihaokkjj/static-resources/main/cxyduck.gif"
+    alt="coding duck"
   />
-</picture>
-<br/>  
 
-<!-- ## Connect with me  
+  <img
+    width="200"
+    height="200"
+    src="https://raw.githubusercontent.com/nihaokkjj/image/main/images.jpg"
+    alt="avatar"
+  />
+
+  <img
+    width="120"
+    src="https://raw.githubusercontent.com/nihaokkjj/static-resources/main/cxyduck.gif"
+    alt="coding duck"
+  />
+</div>
+
+<h3 align="center">
+  ✨ 我是前端小菜鸟，目标是成为一名优秀的全栈工程师 ✨
+</h3>
+
+<p align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习 🔭</p>
+
+<p align="center">🌱 我目前正在持续学习后端 🌱</p>
+
+<p align="center">❓ 欢迎通过博客或 GitHub 与我交流 ❓</p>
+
+<h2>Contribution Snake</h2>
+
 <div align="center">
-<a href="https://github.com/nihaokkjj" target="_blank">
-<img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" /> -->
-<!-- </a>
- &nbsp;&nbsp;&nbsp;
-<a href="https://gitee.com/liushijie-kitie" target="_blank">
-<img src=https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee alt=gitee height="40" style="margin-right: 10px;" />
-</a>
- &nbsp;&nbsp;&nbsp;
-<a href="https://blog.csdn.net/qq_35716689?type=blog" target="_blank">
-<img src=https://img.shields.io/badge/-CSDN-EF4223?style=flat-square&logo=csdn alt=csdn height="40" style="margin-right: 10px;" />
-</a>
-</div>   -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake-dark.svg"
+    />
 
-贡献曲线图
-## Github contribution
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/nihaokkjj/workflows/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
 <h2>GitHub Activity</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=0d1117&amp;color=ffffff&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
-  />
-  <img
-    alt="GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=0d1117&amp;color=ffffff&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;hide_border=true"
+    />
 
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
+    />
 
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+    <img
+      alt="GitHub activity graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=nihaokkjj&amp;theme=xcode&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area=true&amp;hide_border=true"
+    />
+  </picture>
+</div>
 
-<!-- 3D个人贡献资料图 -->
-<!-- <picture> -->
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <!-- <img src="https://github.com/nihaokkjj/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</picture> -->
+<h2>Connect with me</h2>
 
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+<div align="center">
+  <a href="https://github.com/nihaokkjj">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github"
+      alt="GitHub"
+    />
+  </a>
 
-<!-- 技能表 -->
-<!-- ## My Skill Set  
-<table><tr><td valign="top" width="33%"> -->
+  <a href="https://gitee.com/liushijie-kitie">
+    <img
+      src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&amp;logo=gitee"
+      alt="Gitee"
+    />
+  </a>
 
-<!-- 前端技能 -->
-<!-- ### Frontend   -->
-<!-- <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div> -->
-
-</td><td valign="top" width="33%">
-
-
-
-
+  <a href="https://blog.csdn.net/qq_35716689?type=blog">
+    <img
+      src="https://img.shields.io/badge/CSDN-EF4223?style=flat-square&amp;logo=csdn"
+      alt="CSDN"
+    />
+  </a>
+</div>
