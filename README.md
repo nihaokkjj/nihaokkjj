@@ -16,11 +16,11 @@
 </div>  
 
 <!-- 个人介绍 -->
-### <div align="center">✨我是前端小菜鸟，目标是成为一名优秀的前端工程师✨</div>  
+### <div align="center">✨我是前端小菜鸟，目标是成为一名优秀的全栈工程师✨</div>  
 <br/>  
 <div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
 <br/>  
-<div align="center">🌱我目前正在持续学习Vue的使用🌱</div>  
+<div align="center">🌱我目前正在持续学习后端🌱</div>  
 <br/>  
 <div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
 <br/>  
@@ -29,7 +29,6 @@
 <!-- <div align="center"><img src="https://raw.githubusercontent.com/nihaokkjj/nihaokkjj/f62399537681855605bdd307b158b159ca6677d0/github-snake.svg" /></div> -->
 <br/>  
 
-<!-- 联系方式 -->
 <!-- ## Connect with me  
 <div align="center">
 <a href="https://github.com/nihaokkjj" target="_blank">
